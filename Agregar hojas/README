@@ -1,0 +1,28 @@
+# ExcelAutomationHub
+
+Este repositorio contiene una colección de scripts de Python diseñados para automatizar tareas repetitivas en Excel. Es ideal para analistas de datos junior que buscan mejorar su eficiencia y aprender a automatizar procesos utilizando Python.
+
+## Contenido
+
+- **Agregar Hoja a Múltiples Libros de Excel**: Un script para añadir una hoja específica a varios archivos de Excel de manera automatizada.
+
+## Beneficios
+
+- **Ahorro de tiempo**: Evita realizar tareas repetitivas manualmente.
+- **Reducción de errores**: Minimiza el riesgo de errores humanos en tareas repetitivas.
+- **Aprendizaje**: Mejora tus habilidades en Python y automatización de tareas.
+
+## Uso
+
+1. **Instala las dependencias**:
+   ```sh
+   pip install pandas openpyxl
+
+2. Ejecuta el script:
+   python agregarHoja.py
+Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes un script útil para automatizar tareas en Excel, no dudes en hacer un pull request.
+
+Autor
+jpoot - Desarrollador del script
+
